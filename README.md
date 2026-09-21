@@ -440,7 +440,3 @@ fixtures (including a multi-language + CI-target run).
 
 The canonical project contract is [`CLAUDE.md`](CLAUDE.md); the architecture and
 build phases are in [`PLAN.md`](PLAN.md).
-
-## License
-
-MIT.
